@@ -573,7 +573,7 @@ img{
 }
 
 .services_content:hover{
-  background-color: var(--first-color);
+  background-color: var(--green-color);
 }
 
 .services_content:hover .services_icon{
