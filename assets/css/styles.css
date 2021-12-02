@@ -499,7 +499,7 @@ img{
 
 .education_university, .education_specialty{
   display: block;
-  font-size: var(--smaller-font-size);
+  font-size: var(--small-font-size);
 }
 
 .education_year, .education_university{
