@@ -497,9 +497,13 @@ img{
   margin-bottom: .25rem;
 }
 
-.education_university, .education_specialty{
+.education_university {
   display: block;
   font-size: var(--small-font-size);
+}
+.education_specialty {
+  display: block;
+  font-size: var(--smaller-font-size);
 }
 
 .education_year, .education_university{
