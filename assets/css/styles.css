@@ -461,6 +461,10 @@ img{
   width: 70%;
 }
 
+.skills_js{
+  width: 70%;
+}
+
 .skills_php{
   width: 100%;
 }
@@ -469,8 +473,8 @@ img{
   width: 90%;
 }
 
-.skills_cs{
-  width: 80%;
+.skills_node{
+  width: 50%;
 }
 
 .skills_laravel{
@@ -478,7 +482,15 @@ img{
 }
 
 .skills_swift{
-  width: 80%;
+  width: 90%;
+}
+
+.skills_git{
+  width: 70%;
+}
+
+.skills_gas{
+  width: 90%;
 }
 
 /* ===== EDUCATION =====*/
